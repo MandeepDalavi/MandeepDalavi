@@ -6,7 +6,7 @@
 <a href="https://twitter.com/mandeepdalavi">
   <img align="left" alt="Mandeep Dalavi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="mailto:kunalkushwaha453@gmail.com">
+<a href="mailto:mandeepdalavi@gmail.com">
   <img align="left" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.png" />
 </a>
 <a href="https://open.spotify.com/user/0tysdslbia6tdzpwjha50mwwz?si=11b1a28cd5944b5e">
