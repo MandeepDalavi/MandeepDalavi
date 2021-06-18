@@ -1,11 +1,14 @@
+<!-- Visitors Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MandeepDalavi.MandeepDalavi">
 
+<!-- Typing SVG -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+to+my+Profile&center=true&size=30">
   </a>
 </h1>
 
+<!-- Profiles -->
 <h5 align="center">
   <a href="https://www.linkedin.com/in/mandeep-d-a51590135/" title="LinkedIn Profile">
     <img alt="Mandeep Dalavi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -21,7 +24,145 @@
   </a>
 </h5>
 
+<!-- Hello -->
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Mandeep!](https://mandeepdalavi.github.io)
+
+<!-- About -->
+🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering from Pune University 🏛.
+👨‍💻 I am passionate about Web & App Dev, DevOps & I enjoy learning new things💡. I love to explore new tech stuff around ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development 🕸️ + working on my Data Structures and Algorithms 🤓.
+
+<!-- Code GIF -->
+<img align="right" alt="GIF" src="https://github.com/MandeepDalavi/MandeepDalavi/blob/main/assets/code.gif?raw=true" width="350" height="227" />
+
+<!-- Ideas -->
+This is the place where I Open-Source stuff and break things :rofl:
+
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning App Development, React and NodeJS
+- 💬 Ask me about anything related to Git/DSA/Hackathons/PC Build
+- 📫 How to reach me: [@mandeepdalavi](https://twitter.com/mandeepdalavi) or <a rel="me" href="https://www.instagram.com/mandeepdalavi/">instagram@mandeepdalavi</a>
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a Night 🦉
+
+<!-- Languages & Tools -->
+### 🛠️ My Daily tools
+
+#### 👨‍💻 Programming 
+
+<p align="center">
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+</p>
+
+#### 🧰 Frameworks and libraries
+
+<p align="center">
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
+    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+</p>
+
+#### 🗄️ Databases and cloud hosting
+
+<p align="center">
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> -->
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a> -->
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+</p>
+
+#### 💻 Software and tools
+
+<p align="center">
+    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
+    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
+    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+    <a href="#"><img alt="Dark Reader" src="https://img.shields.io/badge/-Dark%20Reader-141E24?logo=dark-reader&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Trophies -->
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<details>	
+  <br />
+  <summary><b>⚡ GitHub Stats</b></summary>
+<br>
+<p align=center>
+  <div align=center>
+    <!-- GitHub Streak -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepDalavi&theme=react&border=61dafb&hide_border=true" alt="MandeepDalavi" />
+    </a>
+    <!-- GitHub Stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <!-- Language Stats -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepDalavi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
+  <!-- Contribution Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+</details>
+
+---
+
+<!-- Buy me a Coffee -->
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<div align="center">
+    <a href="https://www.buymeacoffee.com/mandeepdalavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy A Cup of Coffee for Mandeep" style="height: 45px !important;width: 170px !important;"></a>
+</div>
+
+---
+
+<!-- Setup -->
+<details>	
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows 10 & Ubuntu 20.04</li>
+	    <li><b>Laptop: </b> HP Pavilion x360 (i5)</li>
+  	    <li><b>Browser: </b> Edge/Firefox/Brave Web Browser</li>
+	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+	    <li><b>Code Editor:</b> VSCode & Atom</li>
+	    <li><b>To Stay Updated:</b> Dev.to, Medium, TLDR, iDrop, Linkedin and Twitter.</li>
+	    <br />
+	⚛️ Checkout My VSCode Configurations <a href="https://gist.github.com/MandeepDalavi/c0fae55e7ef90c845c786c1e4e44f88c">Here</a>.
+	</ul>
+</details>
 
 <!--
 **MandeepDalavi/MandeepDalavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
