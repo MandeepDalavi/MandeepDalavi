@@ -143,7 +143,7 @@ This is the place where I Open-Source stuff and break things :rofl:
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <div align="center">
-    <a href="https://www.buymeacoffee.com/mandeepdalavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy A Cup of Coffee for Mandeep" style="height: 45px !important;width: 170px !important;"></a>
+    <a href="https://www.buymeacoffee.com/mandeepdalavi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy A Cup of Coffee for Mandeep" width="170" ></a>
 </div>
 
 ---
