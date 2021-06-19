@@ -16,6 +16,12 @@
   <a href="https://twitter.com/mandeepdalavi" title="Mandeep Dalavi | Twitter">
     <img alt="Mandeep Dalavi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
   </a>
+  <a href="https://www.facebook.com/MandeepDalavi/" title="Mandeep Dalavi | Facebook">
+    <img alt="Mandeep Dalavi | Facebook" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />
+  </a>
+  <a href="https://www.instagram.com/mandeepdalavi/" title="Mandeep Dalavi | Instagram">
+    <img alt="Mandeep Dalavi | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.svg" />
+  </a>
   <a href="mailto:mandeepdalavi@gmail.com" title="Mandeep Dalavi | Gmail">
     <img alt="Mandeep Dalavi | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
   </a>
@@ -132,7 +138,8 @@ This is the place where I Open-Source stuff and break things :rofl:
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepDalavi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <br>
+  <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   <br>
   <!-- Contribution Graph -->
   <img src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
