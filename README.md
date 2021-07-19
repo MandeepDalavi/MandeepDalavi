@@ -31,7 +31,7 @@
 </h5>
 
 <!-- Hello -->
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Mandeep!](https://mandeepdalavi.github.io)
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Mandeep!](https://mandeepdalavi.github.io/Portfolio/)
 
 <!-- About -->
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering from Pune University 🏛.
