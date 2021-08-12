@@ -28,6 +28,9 @@
   <a href="https://open.spotify.com/user/0tysdslbia6tdzpwjha50mwwz?si=11b1a28cd5944b5e" title="Mandeep Dalavi | Spotify">
     <img alt="Mandeep Dalavi | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
+  <a href="https://mandeepdalavi.github.io/Portfolio" title="Mandeep Dalavi | Portfolio Website">
+    <img alt="Mandeep Dalavi | Spotify" width="23px" src="https://mandeepdalavi.github.io/Portfolio/img/favicon.ico" />
+  </a>
 </h5>
 
 <!-- Hello -->
@@ -110,7 +113,7 @@ This is the place where I Open-Source stuff and break things :rofl:
 
 <!-- Trophies -->
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&column=5&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=5&margin-h=0" />
 </p>
 
 ---
@@ -124,18 +127,18 @@ This is the place where I Open-Source stuff and break things :rofl:
   <div align=center>
     <!-- GitHub Streak -->
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepDalavi&theme=react&border=61dafb&hide_border=true" alt="MandeepDalavi" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepDalavi&theme=react&border=61dafb&hide_border=false" alt="MandeepDalavi" />
     </a>
     <!-- GitHub Stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <!-- Language Stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepDalavi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepDalavi&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
     </a>
   </div>
   <br>
