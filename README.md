@@ -29,7 +29,7 @@
     <img alt="Mandeep Dalavi | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
   <a href="https://mandeepdalavi.github.io/Portfolio" title="Mandeep Dalavi | Portfolio Website">
-    <img alt="Mandeep Dalavi | Portfolio" width="23px" src="https://mandeepdalavi.github.io/Portfolio/img/favicon.png" />
+    <img alt="Mandeep Dalavi | Portfolio" width="23px" src="https://github.com/MandeepDalavi/Portfolio/blob/main/img/favicon.ico" />
   </a>
 </h5>
 
