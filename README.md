@@ -25,16 +25,16 @@
   <a href="mailto:mandeepdalavi@gmail.com" title="Mandeep Dalavi | Gmail">
     <img alt="Mandeep Dalavi | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
   </a>
-  <a href="https://open.spotify.com/user/0tysdslbia6tdzpwjha50mwwz?si=11b1a28cd5944b5e" title="Mandeep Dalavi | Spotify">
+<!--   <a href="https://open.spotify.com/user/0tysdslbia6tdzpwjha50mwwz?si=11b1a28cd5944b5e" title="Mandeep Dalavi | Spotify">
     <img alt="Mandeep Dalavi | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-  </a>
-  <a href="https://mandeepdalavi.github.io/Portfolio" title="Mandeep Dalavi | Portfolio Website">
+  </a> -->
+  <a href="https://mandeepdalavi.github.io/" title="Mandeep Dalavi | Portfolio Website">
     <img alt="Mandeep Dalavi | Portfolio" width="23px" src="https://github.com/MandeepDalavi/Portfolio/blob/main/img/favicon.ico" />
   </a>
 </h5>
 
 <!-- Hello -->
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Mandeep!](https://mandeepdalavi.github.io/Portfolio/)
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Mandeep!](https://mandeepdalavi.github.io/)
 
 <!-- About -->
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering from Pune University 🏛.
