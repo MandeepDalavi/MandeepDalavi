@@ -28,13 +28,16 @@
 <!--   <a href="https://open.spotify.com/user/0tysdslbia6tdzpwjha50mwwz?si=11b1a28cd5944b5e" title="Mandeep Dalavi | Spotify">
     <img alt="Mandeep Dalavi | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a> -->
+  <a href="https://devpost.com/MandeepDalavi" title="Mandeep Dalavi | Devpost">
+    <img alt="Mandeep Dalavi | Devpost" width="25px" src="https://img.icons8.com/color/48/undefined/devpost.png" />
+  </a>
   <a href="https://mandeepdalavi.github.io/" title="Mandeep Dalavi | Portfolio Website">
     <img alt="Mandeep Dalavi | Portfolio" width="23px" src="https://github.com/MandeepDalavi/Portfolio/blob/main/img/favicon.ico" />
   </a>
 </h5>
 
 <!-- Hello -->
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm [Mandeep!](https://mandeepdalavi.github.io/)
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">, I'm [Mandeep!](https://mandeepdalavi.github.io/)
 
 <!-- About -->
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering from Pune University 🏛.
@@ -47,8 +50,8 @@
 This is the place where I Open-Source stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning App Development, React and NodeJS
-- 💬 Ask me about anything related to Git/DSA/Hackathons/PC Build
+- 🌱 I’m currently learning React and NodeJS
+- 💬 Ask me about anything related to Git/DSA/Hackathons
 - 📫 How to reach me: [@mandeepdalavi](https://twitter.com/mandeepdalavi) or <a rel="me" href="https://www.instagram.com/mandeepdalavi/">instagram@mandeepdalavi</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Night 🦉
@@ -113,41 +116,38 @@ This is the place where I Open-Source stuff and break things :rofl:
 
 <!-- Trophies -->
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=5&margin-h=0" />
+<!--   <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=5&margin-h=0" /> -->
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&theme=dark_lover&title=Stars,Followers,Repositories,Commits,PullRequest,Issues,MultiLanguage&margin-w=5&margin-h=5" />
+	
 </p>
 
 ---
+<div align=center>
+<!-- GitHub Streak -->
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepDalavi&theme=react&border=61dafb&hide_border=false" /></a>
+</div>
 
-<!-- GitHub Stats -->
-<details>	
-  <br />
-  <summary><b>⚡ GitHub Stats</b></summary>
 <br>
-<p align=center>
-  <div align=center>
-    <!-- GitHub Streak -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=MandeepDalavi&theme=react&border=61dafb&hide_border=false" alt="MandeepDalavi" />
-    </a>
-    <!-- GitHub Stats -->
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&include_all_commits=true&count_private=true&show_icons=true&theme=react&border_color=61dafb&hide_border=false" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
+
+<div align=center>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&count_private=true&show_icons=true&incluse_all_commits=true&border_color=61dafb&hide_border=false&theme=react" /></a>
+</div>
+<!-- GitHub Stats -->
+
+	
+  <br>
   <div align=center>
     <!-- Language Stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepDalavi&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandeepDalavi&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=false" />
     </a>
   </div>
   <br>
   <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   <br>
   <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-</details>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
 
 ---
 
