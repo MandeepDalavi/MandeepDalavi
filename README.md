@@ -148,7 +148,8 @@ This is the place where I Open-Source stuff and break things :rofl:
   <!-- Contribution Graph -->
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ---
 
 <!-- Buy me a Coffee -->
