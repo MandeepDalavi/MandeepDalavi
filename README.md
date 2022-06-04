@@ -130,7 +130,7 @@ This is the place where I Open-Source stuff and break things :rofl:
 <br>
 
 <div align=center>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&count_private=true&show_icons=true&incluse_all_commits=true&border_color=61dafb&hide_border=false&theme=react" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MandeepDalavi&count_private=true&show_icons=true&include_all_commits=true&border_color=61dafb&hide_border=false&theme=react" /></a>
 </div>
 <!-- GitHub Stats -->
 
