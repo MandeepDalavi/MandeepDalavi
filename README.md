@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-42%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38%20Thousand%20lines%20of%20code-blue)
 
@@ -182,18 +182,17 @@ Sunday       81 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      7 mins              ███████████████████████░░   94.72% 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
+PHP                      2 mins              █████████████████████░░░░   83.9% 
+JavaScript               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.1%
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-travel website           4 mins              ██████████████░░░░░░░░░░░   55.66% 
-WT_Project-Travel        3 mins              ███████████░░░░░░░░░░░░░░   44.34%
+WT_Project-Travel        2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.0%
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
