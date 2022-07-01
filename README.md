@@ -224,9 +224,9 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   	<ul>
   	    <li><b>OS:</b> Windows 10 & Ubuntu 20.04</li>
 	    <li><b>Laptop: </b> HP Pavilion x360 (i5)</li>
-  	    <li><b>Browser: </b> Edge/Firefox/Brave Web Browser</li>
+  	    <li><b>Browser: </b> Mostly Edge & Brave Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
-	    <li><b>Code Editor:</b> VSCode & Atom</li>
+	    <li><b>Code Editor:</b> VSCode, Atom amd Android Studio</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, TLDR, iDrop, Linkedin and Twitter.</li>
 	    <br />
 	⚛️ Checkout My VSCode Configurations <a href="https://gist.github.com/MandeepDalavi/c0fae55e7ef90c845c786c1e4e44f88c">Here</a>.
