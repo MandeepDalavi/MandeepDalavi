@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39%20Thousand%20lines%20of%20code-blue)
 
@@ -182,17 +182,19 @@ Sunday       79 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      28 mins             ████████████████████████░   99.47% 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+PHP                      1 hr 4 mins         ███████████████████████░░   94.21% 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.13% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15%
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.0%
+VS Code                  1 hr 8 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-ICB                      28 mins             █████████████████████████   100.0%
+ICB                      1 hr 8 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.0%
+Windows                  1 hr 8 mins         █████████████████████████   100.0%
 
 ```
 
