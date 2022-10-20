@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-375%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
@@ -182,16 +182,18 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   39.81% 
+PHP                      1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   37.35% 
+CSS                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   22.84%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  3 hrs 11 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portal                   3 hrs 11 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
