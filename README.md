@@ -153,6 +153,48 @@ This is the place where I Open-Source stuff and break things :rofl:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
+🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   25.82% 
+🌃 Evening    180 commits    █████████████░░░░░░░░░░░░   53.41% 
+🌙 Night      48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.24%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.86% 
+Tuesday      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.5% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.91% 
+Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+Friday       66 commits     █████░░░░░░░░░░░░░░░░░░░░   19.58% 
+Saturday     91 commits     ██████░░░░░░░░░░░░░░░░░░░   27.0% 
+Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.39%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
 
 <!--END_SECTION:waka-->
 ---
