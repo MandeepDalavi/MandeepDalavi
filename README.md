@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://activity-graph.herokuapp.com/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2037%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-69%20Thousand%20lines%20of%20code-blue)
 
@@ -182,17 +182,21 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 15 mins             ██████████████████░░░░░░░   75.38% 
-Solidity                 5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.62%
+PHP                      16 mins             ███████████░░░░░░░░░░░░░░   43.51% 
+Markdown                 15 mins             ██████████░░░░░░░░░░░░░░░   42.68% 
+Solidity                 5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81%
 
 🔥 Editors: 
-VS Code                  20 mins             █████████████████████████   100.0%
+VS Code                  36 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-Bank-Account-Smart-Contra20 mins             █████████████████████████   100.0%
+Bank-Account-Smart-Contra20 mins             ██████████████░░░░░░░░░░░   56.07% 
+Team-AS                  11 mins             ███████░░░░░░░░░░░░░░░░░░   31.42% 
+Login-Register           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.75% 
+login-system             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.76%
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.0%
+Windows                  36 mins             █████████████████████████   100.0%
 
 ```
 
