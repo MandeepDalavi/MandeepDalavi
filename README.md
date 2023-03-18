@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-599%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-611%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-257.5%20thousand%20lines%20of%20code-blue)
 
@@ -180,16 +180,16 @@ Sunday                   89 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    12 hrs 30 mins      █████████████████████████   100.00 % 
+Other                    24 hrs 30 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          12 hrs 30 mins      █████████████████████████   100.00 % 
+Google Calendar          24 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          12 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown Project          24 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               12 hrs 30 mins      █████████████████████████   100.00 % 
+Unknown OS               24 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **Timeline**
