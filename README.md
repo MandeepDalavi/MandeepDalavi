@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-617%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-257.5%20thousand%20lines%20of%20code-blue)
 
@@ -180,18 +180,21 @@ Sunday                   87 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 mins              ██████████████░░░░░░░░░░░   56.70 % 
-JSON                     3 mins              ███████████░░░░░░░░░░░░░░   43.01 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    4 hrs 45 mins       ████████████████████████░   97.40 % 
+JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+Google Calendar          4 hrs 45 mins       ████████████████████████░   97.40 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🐱‍💻 Projects: 
-TaxSarthiPortal          7 mins              █████████████████████████   100.00 % 
+Unknown Project          4 hrs 45 mins       ████████████████████████░   97.40 % 
+TaxSarthiPortal          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Unknown OS               4 hrs 45 mins       ████████████████████████░   97.40 % 
+Windows                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 
 **Timeline**
