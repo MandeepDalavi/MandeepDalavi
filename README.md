@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-646%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-257.5%20thousand%20lines%20of%20code-blue)
 
@@ -180,16 +180,24 @@ Sunday                   87 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    11 hrs 34 mins      █████████████████████████   100.00 % 
+Other                    11 hrs 34 mins      █████████████████████████   98.30 % 
+JavaScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Google Calendar          11 hrs 34 mins      █████████████████████████   100.00 % 
+Google Calendar          11 hrs 34 mins      █████████████████████████   98.30 % 
+VS Code                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 🐱‍💻 Projects: 
-Unknown Project          11 hrs 34 mins      █████████████████████████   100.00 % 
+Unknown Project          11 hrs 34 mins      █████████████████████████   98.30 % 
+TaxSarthiPortal-Admin    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TaxSarthiPortal          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 💻 Operating System: 
-Unknown OS               11 hrs 34 mins      █████████████████████████   100.00 % 
+Unknown OS               11 hrs 34 mins      █████████████████████████   98.30 % 
+Windows                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 ```
 
 **Timeline**
