@@ -146,7 +146,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   <br>
   <!-- Contribution Graph -->
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-647%20hrs%2043%20mins-blue)
