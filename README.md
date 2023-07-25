@@ -10,11 +10,11 @@
 
 <!-- Profiles -->
 <h5 align="center">
-  <a href="https://www.linkedin.com/in/mandeep-d-a51590135/" title="Mandeep Dalavi | LinkedIn">
-    <img alt="Mandeep Dalavi | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <a href="https://www.linkedin.com/in/mandeepdalavi/" title="Mandeep Dalavi | LinkedIn">
+    <img alt="Mandeep Dalavi | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
   </a>
   <a href="https://twitter.com/mandeepdalavi" title="Mandeep Dalavi | Twitter">
-    <img alt="Mandeep Dalavi | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img alt="Mandeep Dalavi | Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />
   </a>
   <a href="https://www.facebook.com/MandeepDalavi/" title="Mandeep Dalavi | Facebook">
     <img alt="Mandeep Dalavi | Facebook" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />
@@ -117,7 +117,7 @@ This is the place where I Open-Source stuff and break things :rofl:
 <!-- Trophies -->
 <p align="center">
 <!--   <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=5&margin-h=0" /> -->
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&theme=dark_lover&title=Stars,Followers,Repositories,Commits,PullRequest,Issues,MultiLanguage&margin-w=5&margin-h=5" />
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&theme=dark_lover&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage&margin-w=5&margin-h=5" />
 	
 </p>
 
