@@ -11,19 +11,19 @@
 <!-- Profiles -->
 <h5 align="center">
   <a href="https://www.linkedin.com/in/mandeepdalavi/" title="Mandeep Dalavi | LinkedIn">
-    <img alt="Mandeep Dalavi | LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" />
+    <img alt="Mandeep Dalavi | LinkedIn" width="24px" src="./assets/linkedin.png" />
   </a>
   <a href="https://twitter.com/mandeepdalavi" title="Mandeep Dalavi | Twitter">
-    <img alt="Mandeep Dalavi | Twitter" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" />
+    <img alt="Mandeep Dalavi | Twitter" width="24px" src="./assets/twitter.png" />
   </a>
   <a href="https://www.facebook.com/MandeepDalavi/" title="Mandeep Dalavi | Facebook">
-    <img alt="Mandeep Dalavi | Facebook" width="24px" src="https://img.icons8.com/fluent/48/000000/facebook-new.svg" />
+    <img alt="Mandeep Dalavi | Facebook" width="24px" src="./assets/facebook.png" />
   </a>
   <a href="https://www.instagram.com/mandeepdalavi/" title="Mandeep Dalavi | Instagram">
-    <img alt="Mandeep Dalavi | Instagram" width="26px" src="https://img.icons8.com/fluent/48/000000/instagram-new.svg" />
+    <img alt="Mandeep Dalavi | Instagram" width="26px" src="./assets/instagram.png" />
   </a>
   <a href="mailto:mandeepdalavi@gmail.com" title="Mandeep Dalavi | Gmail">
-    <img alt="Mandeep Dalavi | Gmail" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail-new.svg" />
+    <img alt="Mandeep Dalavi | Gmail" width="25px" src="./assets/gmail.png" />
   </a>
 <!--   <a href="https://open.spotify.com/user/0tysdslbia6tdzpwjha50mwwz?si=11b1a28cd5944b5e" title="Mandeep Dalavi | Spotify">
     <img alt="Mandeep Dalavi | Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
@@ -37,7 +37,7 @@
 </h5>
 
 <!-- Hello -->
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px">, I'm [Mandeep!](https://mandeepdalavi.github.io/)
+## Hey there, I'm [Mandeep!](https://mandeepdalavi.github.io/)
 
 <!-- About -->
 🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering from Pune University 🏛.
