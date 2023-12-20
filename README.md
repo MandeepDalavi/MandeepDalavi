@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2011%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288.6%20thousand%20lines%20of%20code-blue)
 
@@ -180,16 +180,23 @@ Sunday                   96 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    9 hrs 24 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 30 mins       ███████████████████████░░   92.34 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Google Calendar          9 hrs 24 mins       █████████████████████████   100.00 % 
+Google Calendar          6 hrs 30 mins       ███████████████████████░░   92.34 % 
+VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 🐱‍💻 Projects: 
-Unknown Project          9 hrs 24 mins       █████████████████████████   100.00 % 
+Unknown Project          6 hrs 30 mins       ███████████████████████░░   92.34 % 
+TaxSarthiPortal-Admin    32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 
 💻 Operating System: 
-Unknown OS               9 hrs 24 mins       █████████████████████████   100.00 % 
+Unknown OS               6 hrs 30 mins       ███████████████████████░░   92.34 % 
+Windows                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
 ```
 
 **Timeline**
