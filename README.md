@@ -149,7 +149,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-288.6%20thousand%20lines%20of%20code-blue)
 
@@ -180,17 +180,19 @@ Sunday                   96 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-PHP                      20 mins             ████████████████████░░░░░   81.56 % 
-HTML                     4 mins              █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+PHP                      54 mins             █████████████████████░░░░   85.18 % 
+HTML                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qrAttendanceUser         24 mins             █████████████████████████   100.00 % 
+qrAttendanceUser         1 hr 3 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
 **Timeline**
