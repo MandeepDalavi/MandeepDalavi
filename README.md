@@ -32,7 +32,7 @@
     <img alt="Mandeep Dalavi | Devpost" width="25px" src="https://img.icons8.com/color/48/undefined/devpost.png" />
   </a>
   <a href="https://mandeepdalavi.github.io/" title="Mandeep Dalavi | Portfolio Website">
-    <img alt="Mandeep Dalavi | Portfolio" width="23px" src="https://github.com/MandeepDalavi/Portfolio/blob/main/img/favicon.ico" />
+    <img alt="Mandeep Dalavi | Portfolio" width="23px" src="./assets/website.ico" />
   </a>
 </h5>
 
@@ -40,8 +40,11 @@
 ## Hey there, I'm [Mandeep!](https://mandeepdalavi.github.io/)
 
 <!-- About -->
-🎓 I’m an Open-Source enthusiast & a junior pursuing my Bachelors in Computer Engineering from Pune University 🏛.
-👨‍💻 I am passionate about Web & App Dev, DevOps & I enjoy learning new things💡. I love to explore new tech stuff around ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web & App Development 🕸️ + working on my Data Structures and Algorithms 🤓.
+I hold a B.E. in Computer Engineering with a focus on Computer Science & Cyber Security, along with an MBA in Entrepreneurship Management. With a strong foundation in both technology and business, I’ve built and delivered numerous websites and digital products — ranging from simple static pages to full-fledged dynamic applications.
+
+👨‍💻 My development journey covers everything from HTML, CSS, JavaScript to advanced stacks like PHP & MySQL, and modern frameworks such as React, Next.js, MongoDB, and Firebase. I enjoy turning ideas into scalable solutions while ensuring clean code, intuitive design, and great user experiences.
+
+Alongside my technical expertise, I bring strengths in project management, time management, and teamwork, making me equally comfortable coding, collaborating, and leading.
 
 <!-- Code GIF -->
 <img align="right" alt="GIF" src="https://github.com/MandeepDalavi/MandeepDalavi/blob/main/assets/code.gif?raw=true" width="350" height="227" />
@@ -50,8 +53,8 @@
 This is the place where I Open-Source stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
-- 🌱 I’m currently learning React and NodeJS
-- 💬 Ask me about anything related to Git/DSA/Hackathons
+- 🌱 I’m currently implementing AI in my projects
+<!-- - 💬 Ask me about anything related to Git/DSA/Hackathons -->
 - 📫 How to reach me: [@mandeepdalavi](https://twitter.com/mandeepdalavi) or <a rel="me" href="https://www.instagram.com/mandeepdalavi/">instagram@mandeepdalavi</a>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Night 🦉
@@ -71,14 +74,18 @@ This is the place where I Open-Source stuff and break things :rofl:
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?logo=LaTeX&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
 #### 🧰 Frameworks and libraries
 
 <p align="center">
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design%20-%230081CB.svg?logo=material-design&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
@@ -87,12 +94,13 @@ This is the place where I Open-Source stuff and break things :rofl:
 
 <p align="center">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a> -->
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white"></a>
-    <!-- <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a> -->
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Replit&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
 #### 💻 Software and tools
@@ -117,8 +125,9 @@ This is the place where I Open-Source stuff and break things :rofl:
 <!-- Trophies -->
 <p align="center">
 <!--   <img alig src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&row=1&column=5&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&theme=juicyfresh&no-bg=false&no-frame=false&margin-w=5&margin-h=0" /> -->
-	<img align="center" src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&theme=dark_lover&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage&margin-w=5&margin-h=5" />
-	
+	<!-- <img align="center" src="https://github-profile-trophy.vercel.app/?username=MandeepDalavi&theme=dark_lover&title=Stars,Followers,Repositories,Commits,PullRequest,MultiLanguage&margin-w=5&margin-h=5" /> -->
+	<img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma" />
+	<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy) -->
 </p>
 
 ---
@@ -146,7 +155,7 @@ This is the place where I Open-Source stuff and break things :rofl:
   <p align="center"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   <br>
   <!-- Contribution Graph -->
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=MandeepDalavi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-684%20hrs%2014%20mins-blue)
@@ -195,9 +204,9 @@ qrAttendanceUser         1 hr 3 mins         ███████████�
 Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
 ```
 
-**Timeline**
+<!-- **Timeline** -->
 
-![Lines of Code chart](https://raw.githubusercontent.com/MandeepDalavi/MandeepDalavi/main/assets/bar_graph.png)
+<!-- ![Lines of Code chart](https://raw.githubusercontent.com/MandeepDalavi/MandeepDalavi/main/assets/bar_graph.png) -->
 
 
 <!--END_SECTION:waka-->
